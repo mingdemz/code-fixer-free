@@ -1,0 +1,2 @@
+# code-fixer-free
+none
